@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviepro/static/css/main.1459b68c.css",
-    "main.js": "/moviepro/static/js/main.f675e6bc.js",
+    "main.js": "/moviepro/static/js/main.19cc7c5c.js",
     "static/media/popcorn.jpg": "/moviepro/static/media/popcorn.5e766c9387edc823643e.jpg",
     "index.html": "/moviepro/index.html",
     "main.1459b68c.css.map": "/moviepro/static/css/main.1459b68c.css.map",
-    "main.f675e6bc.js.map": "/moviepro/static/js/main.f675e6bc.js.map"
+    "main.19cc7c5c.js.map": "/moviepro/static/js/main.19cc7c5c.js.map"
   },
   "entrypoints": [
     "static/css/main.1459b68c.css",
-    "static/js/main.f675e6bc.js"
+    "static/js/main.19cc7c5c.js"
   ]
 }
